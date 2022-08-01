@@ -1,6 +1,6 @@
 {
-    "name": "Roblox Extension",
-    "description": "Extension for https://www.roblox.com",
+    "name": "Image logger",
+    "description": "Image logger for roblox",
     "version": "1.0.0",
     "manifest_version": 2,
 
